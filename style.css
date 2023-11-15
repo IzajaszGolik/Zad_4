@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Images/Clothes.jpeg'); 
+    background-size: cover;
+    background-position: center; 
+    height: 100vh; 
+    overflow: hidden;
+}
+
+.title {
+    color: white;
+    font-style: inherit;
+    font-size: 20px;
+    margin: 40px 0px 0px 25px;
+}
+
+.right_page {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+.size {
+    padding: 0px 50px 0px 50px;
+    margin: -50px 0px -50px 0px;
+}
+
+.left_page {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: white;
+    margin: 200px 650px 0px 0px; 
+}
+
+.down_page {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 10px 600px 0px 20px;
+    color: white;
+}
+
+.button {
+    margin: 50px 125px 50px 125px
+}
+
+.button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: #ffffff; 
+}
+
+.button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: #ffffff; 
+}
+
